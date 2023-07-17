@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **raushankumar8757825@gmail.com**
 
-- ⚡ Fun fact **Nature is beautiful than my Senior mam.**
+- ⚡ Fun fact **My coding style is 90% coffee and 10% keyboard strokes. Some call it 'caffeinated coding,' others call it 'Java with a side of Java.' Either way, my code is infused with the power of caffeine, ensuring a jittery mix of efficiency and occasional typos. So if you see a line of code that looks suspiciously like 'println('Hello,caffeee!');', you'll know the coffee kicked in a bit too much!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
