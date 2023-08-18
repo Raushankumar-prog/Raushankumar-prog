@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **raushankumar8757825@gmail.com**
 
-- ⚡ Fun fact **                "My heart understands and feels you"**
+- ⚡ Fun fact **                "My heart understands and feels her "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
