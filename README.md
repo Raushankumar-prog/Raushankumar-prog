@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushankumar-prog&label=Profile%20views&color=0e75b6&style=flat" alt="raushankumar-prog" /> </p>
 
-- 🌱 I’m currently learning **NODE.JS and Postgresql**
+- 🌱 I’m currently learning **PAIN OF LOVE**
 
-- 💬 Ask me about **Javascript , Material ui and React.js**
+- 💬 Ask me about **WEB DEVELOPMENT**
 
 - 📫 How to reach me **raushankumar8757825@gmail.com**
 
