@@ -1,5 +1,5 @@
 # 💫 About Me:
-my coding  skills<br>Development  project<br>Open source contribution<br>DSA<br>fronted and backend development<br>**bandi sahi par yaar vo senior hai **
+🔭 I’m currently working on  my coding  skills.<br>👯 I’m looking to collaborate on Development  project.<br>🤝 I’m looking for help with Open source contribution.<br>🌱 I’m currently learning DSA.<br>💬 Ask me about fronted and backend development.<br>⚡ Fun fact **bandi sahi par yaar vo senior hai **
 
 
 ## 🌐 Socials:
