@@ -1,5 +1,5 @@
 # 💫 Raushan Kumar:
-🔭 I’m currently working on  my coding  skills.<br>👯 I’m looking to collaborate on Development  project.<br>🤝 I’m looking for help on Open source contribution.<br>🌱 I’m currently learning DSA.<br>💬 Ask me about fronted and backend development.<br>⚡ Fun fact **bandi sahi hai par yaar voh senior hai **
+🔭 I’m currently working on  my coding  skills.<br>👯 I’m looking to collaborate on Development  project.<br>🤝 I’m looking for help on Open source contribution.<br>🌱 I’m currently learning DSA.<br>💬 Ask me about fronted and backend development.<br>⚡ Fun fact ***still counting the star*
 
 
 ## 🌐 Socials:
