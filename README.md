@@ -39,8 +39,8 @@ Here's a video of me trying to debug a project at 3 AM:
 - 🥈 **Most Unreadable Code** - As voted by my peers.
 - 🥉 **Coffee Consumer of the Year** - 2024.
 
-## 📢 Disclaimer
+## 📢 Enjoy coding baby
 
-This README is meant for humor. If you're looking for serious code, you might be in the wrong place. But if you enjoy a good laugh and some chaotic coding, welcome aboard!
+
 
 ![Good Luck](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
