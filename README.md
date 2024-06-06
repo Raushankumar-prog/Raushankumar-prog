@@ -1,4 +1,4 @@
-# 🚀 Full Stall Developer 🚀
+# 🚀 Solo startup Developer 🚀
 
 Welcome to my GitHub profile! I'm a Full Stall Developer, and I'm here to take procrastination and development to a whole new level. If you need a project to go nowhere fast, you're in the right place.
 
