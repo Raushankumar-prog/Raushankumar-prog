@@ -1,49 +1,49 @@
-<h2 align="left">Hi 👋! My name is Raushan kumar and I'm a Software developer, from  India</h2>
+# 🚀 Full Stall Developer 🚀
 
-###
+Welcome to my GitHub profile! I'm a Full Stall Developer, and I'm here to take procrastination and development to a whole new level. If you need a project to go nowhere fast, you're in the right place.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![Weird Developer GIF](https://media.giphy.com/media/26gslxUny4dA9dWeQ/giphy.gif)
 
-###
+## 🛠️ Skills & Technologies
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- **Procrastination**: Expert level, can delay any project with ease.
+- **Code Spaghetti**: Writing code that's as tangled as a bowl of noodles.
+- **Coffee Drinking**: Keeping the coffee industry in business, one cup at a time.
+- **Stack Overflow Searching**: Finding the most obscure solutions to common problems.
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
 
-###
+## 📺 Latest Video
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+Here's a video of me trying to debug a project at 3 AM:
 
-###
+[![Debugging at 3 AM](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<br clear="both">
+## 📸 Developer Life
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Developer Life](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-###
+## 🗃️ Repositories
+
+- **[My-Next-Big-Failure](https://github.com/yourhandle/My-Next-Big-Failure)**: A repository where I experiment with all the new technologies I don't understand.
+- **[Procrastination-Station](https://github.com/yourhandle/Procrastination-Station)**: A collection of scripts and tools to help you avoid work effectively.
+- **[Infinite-Loop-of-Doom](https://github.com/yourhandle/Infinite-Loop-of-Doom)**: My attempt at creating the most unbreakable infinite loop.
+
+## 🤔 Fun Facts
+
+- I once tried to optimize a "Hello World" program for 24 hours.
+- My favorite coding font is Comic Sans.
+- I believe semicolons are optional everywhere.
+- I use `git commit -am "fixed stuff"` for every commit message.
+
+## 🏆 Achievements
+
+- 🥇 **World Champion Procrastinator** - 3 years running.
+- 🥈 **Most Unreadable Code** - As voted by my peers.
+- 🥉 **Coffee Consumer of the Year** - 2022.
+
+## 📢 Disclaimer
+
+This README is meant for humor. If you're looking for serious code, you might be in the wrong place. But if you enjoy a good laugh and some chaotic coding, welcome aboard!
+
+![Good Luck](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
